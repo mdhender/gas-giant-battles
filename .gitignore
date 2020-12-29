@@ -1,3 +1,5 @@
+*~
+
 *.rbc
 capybara-*.html
 .rspec
@@ -10,6 +12,9 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
+
+# Ignore JetBrains IDE settings
+.idea/
 
 # Ignore all logfiles and tempfiles.
 /log/*
